@@ -18,10 +18,10 @@ This repository contains a simple Facebook Messenger bot implemented using an un
 
 To use this bot, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/fb-unofficial-bot.git`
+1. Clone this repository: `git clone https://github.com/Schmavery/facebook-chat-api`
 2. Set up your Facebook API credentials and save them in an 'appstate.json' file.
 3. Customize the bot's prefix or other settings as needed.
-4. Run the bot using `node yourbotfile.js`.
+4. Run the bot using `node bot-code.js`.
 
 Please note that this is an unofficial Facebook Messenger bot, and it may not be officially supported by Facebook. Use it responsibly and ensure compliance with Facebook's policies and terms of service.
 
@@ -60,6 +60,8 @@ The bot also performs cleanup tasks. For instance, after sending an image, it de
 Users can customize the bot's prefix, allowing them to set their own trigger for commands. This makes it adaptable to different group chat contexts and preferences.
 
 ## Disclaimer
+
+Dont use your main Facebook account. Facebook will suspend your account. So you can create any fake account or bot account to prevent any kind of ban issue. You can add some cooldown time to your bot. 
 
 This bot is for educational purposes only and should not be used for spamming or any malicious activities on Facebook. Use it responsibly and in compliance with Facebook's policies and terms of service. Additionally, being an unofficial implementation, users should be prepared to handle any potential issues that may arise.
 
