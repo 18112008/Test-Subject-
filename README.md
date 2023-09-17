@@ -1,4 +1,4 @@
-# Facebook Messenger Bot (Unofficial)
+# Facebook Messenger Group Chat Bot (Unofficial)
 
 ## Description
 
