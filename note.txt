@@ -1,0 +1,1 @@
+Appstate is just a cookie example. so must change before launch
