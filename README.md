@@ -23,6 +23,12 @@ To use this bot, follow these steps:
 3. Customize the bot's prefix or other settings as needed.
 4. Run the bot using `node bot-code.js`.
 
+### Setting up 'apstate.json'
+'appstate.json' is a credentials file that uses Facebook cookies for login. To set up the correct 'appstate' and login with cookie credentials, please refer to the following issue link:
+https://github.com/Schmavery/facebook-chat-api/issues/890#issuecomment-1021151788
+Here is a Youtube tutorial: https://youtu.be/y9_yd5a3scM?si=U6zVodtRGNdlwoZX
+
+
 Please note that this is an unofficial Facebook Messenger bot, and it may not be officially supported by Facebook. Use it responsibly and ensure compliance with Facebook's policies and terms of service.
 
 
