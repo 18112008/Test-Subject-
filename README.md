@@ -28,6 +28,7 @@ To use this bot, follow these steps:
 https://github.com/Schmavery/facebook-chat-api/issues/890#issuecomment-1021151788
 Here is a Youtube tutorial: https://youtu.be/y9_yd5a3scM?si=U6zVodtRGNdlwoZX
 
+If you have any kind of issue about Facebook Unofficial api, check this link https://github.com/Schmavery/facebook-chat-api
 
 Please note that this is an unofficial Facebook Messenger bot, and it may not be officially supported by Facebook. Use it responsibly and ensure compliance with Facebook's policies and terms of service.
 
